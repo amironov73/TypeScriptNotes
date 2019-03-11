@@ -1,0 +1,2 @@
+# TypeScriptNotes
+Заметки о TypeScript
